@@ -1,0 +1,20 @@
+.container {
+  margin: 0% auto;
+  width: 400px;
+  padding: 10px;
+  margin-top: 10px;
+ justify-content: center;
+}
+.modrenInput {
+    width:80%;
+    padding: 2px;
+    justify-content: center;
+    outline: none;
+    border: none;
+    border-bottom: solid 1px rgb(190, 186, 186);
+    border-radius: 5px;
+    padding: 10px;
+   font-size: 20px;
+}
+
+
